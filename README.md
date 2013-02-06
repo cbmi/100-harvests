@@ -1,3 +1,3 @@
 # 100-harvests
 
-How to the solve the 100 Harvest Problem&tm;
+How to the solve the 100 Harvest Problem&trade;
